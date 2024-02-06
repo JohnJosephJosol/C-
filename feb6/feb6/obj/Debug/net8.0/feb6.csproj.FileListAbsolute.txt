@@ -1,0 +1,14 @@
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.GeneratedMSBuildEditorConfig.editorconfig
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.AssemblyInfoInputs.cache
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.AssemblyInfo.cs
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.csproj.CoreCompileInputs.cache
+D:\feb6\feb6\feb6\bin\Debug\net8.0\feb6.exe
+D:\feb6\feb6\feb6\bin\Debug\net8.0\feb6.deps.json
+D:\feb6\feb6\feb6\bin\Debug\net8.0\feb6.runtimeconfig.json
+D:\feb6\feb6\feb6\bin\Debug\net8.0\feb6.dll
+D:\feb6\feb6\feb6\bin\Debug\net8.0\feb6.pdb
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.dll
+D:\feb6\feb6\feb6\obj\Debug\net8.0\refint\feb6.dll
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.pdb
+D:\feb6\feb6\feb6\obj\Debug\net8.0\feb6.genruntimeconfig.cache
+D:\feb6\feb6\feb6\obj\Debug\net8.0\ref\feb6.dll
